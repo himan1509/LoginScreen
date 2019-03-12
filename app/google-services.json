@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "780134335079",
+    "firebase_url": "https://buyandsellmmdu-c87a0.firebaseio.com",
+    "project_id": "buyandsellmmdu-c87a0",
+    "storage_bucket": "buyandsellmmdu-c87a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780134335079:android:a1a4f1d69dab1de3",
+        "android_client_info": {
+          "package_name": "com.buyandsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780134335079-fvfv9pvupurp3vpfldp1luc951862lfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buyandsell",
+            "certificate_hash": "5dd3b21022c867ff6954a8f76661526bb3a09e2c"
+          }
+        },
+        {
+          "client_id": "780134335079-rh7q13udbfh8q4vch2poplqc21k3tlg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buyandsell",
+            "certificate_hash": "46620ffd52d147dd14a470a808e716554e67258a"
+          }
+        },
+        {
+          "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIN53oBv-1qN4jO7KrFo6LUoDww_ubG-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780134335079:android:14cd1a028b6d8237",
+        "android_client_info": {
+          "package_name": "com.buysellmmduapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780134335079-b114e4v7jfianjtb7lga9hje7jro1v7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buysellmmduapp",
+            "certificate_hash": "9d3f1ab453f97fa6ad96b899c5f93b63e6b63e7b"
+          }
+        },
+        {
+          "client_id": "780134335079-2jnrpcsnclc6v933emrc4f4eqkvu59td.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buysellmmduapp",
+            "certificate_hash": "5dd3b21022c867ff6954a8f76661526bb3a09e2c"
+          }
+        },
+        {
+          "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIN53oBv-1qN4jO7KrFo6LUoDww_ubG-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780134335079:android:9ca0653442465b3d",
+        "android_client_info": {
+          "package_name": "com.himan.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780134335079-488ajqon1m9mkv4jqjaiu9hri6v6gn5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himan.loginscreen",
+            "certificate_hash": "9d3f1ab453f97fa6ad96b899c5f93b63e6b63e7b"
+          }
+        },
+        {
+          "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIN53oBv-1qN4jO7KrFo6LUoDww_ubG-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780134335079:android:0301d1e5a4fc1401",
+        "android_client_info": {
+          "package_name": "home.com.buyandsellapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780134335079-gkdhdnjdo0bflk4jucvt5c98ev65mfbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "home.com.buyandsellapplication",
+            "certificate_hash": "46620ffd52d147dd14a470a808e716554e67258a"
+          }
+        },
+        {
+          "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIN53oBv-1qN4jO7KrFo6LUoDww_ubG-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780134335079-3artenppt64vq27cl5o999hcouttbn2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
